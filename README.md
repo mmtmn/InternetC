@@ -29,14 +29,14 @@
 
 1. **Compile the Program**:
    ```bash
-   gcc -o network_tools network_tools.c -lssl -lcrypto -lldns
+   gcc -o main main.c -lssl -lcrypto -lldns
    ```
 
 ### Running the Program
 
 1. **Run the Program**:
    ```bash
-   ./network_tools
+   ./main
    ```
 
 ### Usage
